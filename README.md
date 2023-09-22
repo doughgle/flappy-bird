@@ -2,6 +2,24 @@
 
 This project is a simple implementation of the popular game Flappy Bird that runs in the browser. The game consists of a bird that the player controls by clicking the mouse to make it flap its wings and avoid obstacles in the form of pipes.
 
+## How To Run
+To run the game, you can follow these steps:
+
+1. Clone or download the project from the GitHub repository: https://github.com/[username]/flappy-bird-game
+
+1. Navigate to the project directory in your terminal or command prompt.
+
+1. Start a Python web server by running the following command:
+
+    This will start a web server on port 8000 by default.
+
+1. Open a web browser and navigate to http://localhost:8000 to view the game.
+
+1. Click the mouse to make the bird flap its wings and avoid the pipes. The game ends when the bird collides with a pipe or the top/bottom of the screen.
+
+That's it! You should now be able to play the Flappy Bird game in your web browser.
+
+
 ## Project Structure
 
 The project has the following files:
